@@ -1,7 +1,7 @@
-# twitch-auto-community-points
-Bookmarklet that will automatically collect Community Points
+# twitch-auto-channel-points
+Bookmarklet that will automatically collect Channel Points
 
-This is a very simple bookmarklet that will periodically detect the "+50 Community Points" button, if it exists, trigger a click.
+This is a very simple bookmarklet that will periodically detect the "+50 Channel Points" button, if it exists, trigger a click.
 
 1. "Add Page" to your bookmark bar
 
